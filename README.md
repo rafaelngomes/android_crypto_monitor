@@ -80,12 +80,13 @@ Se houver falhas de rede, exceções ou outros problemas:
 ## 📸 Capturas de Tela
 
 ### Tela Inicial do Android / Tela Inicial do Aplicativo
+![Image](https://github.com/user-attachments/assets/60fcc9fc-2c0b-4f97-9922-1fcd4d183fcb)
 
 
 
 
 ### Após clique no botão de atualização
-
+![Image](https://github.com/user-attachments/assets/b5b9f7d6-0ebe-47bc-9f1f-a369a4ef872f)
 
 ---
 
