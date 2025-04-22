@@ -86,7 +86,7 @@ Se houver falhas de rede, exceções ou outros problemas:
 
 
 ### Após clique no botão de atualização
+
 ![Image](https://github.com/user-attachments/assets/b5b9f7d6-0ebe-47bc-9f1f-a369a4ef872f)
 
----
 
