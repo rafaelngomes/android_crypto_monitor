@@ -86,7 +86,7 @@ Se houver falhas de rede, exceções ou outros problemas:
 
 
 ### Após clique no botão de atualização
-
+![Captura de tela 2025-04-22 124518](https://github.com/user-attachments/assets/2b6945b7-a16b-4d50-92be-00d15ff04a42)
 ![Image](https://github.com/user-attachments/assets/b5b9f7d6-0ebe-47bc-9f1f-a369a4ef872f)
 
 
