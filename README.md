@@ -2,7 +2,16 @@
 
 Este é um app Android que consulta, em tempo real, a cotação do Bitcoin através da API pública do Mercado Bitcoin. Ele exibe o preço atual em reais, junto com a data e hora da última atualização dos dados.
 
+## 🛠️ Como testar
 
+- Clone o repositório
+
+```
+git clone https://github.com/rafaelngomes/android_crypto_monitor.git
+```
+
+- Utilize um emulador via Android Studio ou IDE própria
+- Garanta que o Android emulado seja 8.1 (API 27) ou superior
 # 🧱 Estrutura Geral do Projeto
 
 Abaixo, segue uma descrição dos principais arquivos e pastas do projeto: `main`, `service`, `factory` e `model`.
@@ -25,7 +34,7 @@ Interface que define o acesso ao endpoint:
 
 ## 🔸 service/MercadoBitcoinServiceFactory.kt
 
-Interface que:
+Classe que:
 
 - Define o método getTicker() para obter os dados de cotação da moeda BTC.
 - Usa Retrofit com suporte a coroutines (via suspend fun).
