@@ -86,13 +86,15 @@ Se houver falhas de rede, exceções ou outros problemas:
 ## 📸 Capturas de Tela
 
 ### Tela Inicial do Android / Tela Inicial do Aplicativo
-![Image](https://github.com/user-attachments/assets/60fcc9fc-2c0b-4f97-9922-1fcd4d183fcb)
+![Captura de tela 2025-04-22 103221](https://github.com/user-attachments/assets/8ddc1962-ef0b-40de-b857-820ab131867a)
+
 
 
 
 
 ### Após clique no botão de atualização
 ![Captura de tela 2025-04-22 124518](https://github.com/user-attachments/assets/2b6945b7-a16b-4d50-92be-00d15ff04a42)
-![Image](https://github.com/user-attachments/assets/b5b9f7d6-0ebe-47bc-9f1f-a369a4ef872f)
+
+![Captura de tela 2025-04-22 103200](https://github.com/user-attachments/assets/464f629c-718c-478b-a3ab-06e727f5fdd1)
 
 
