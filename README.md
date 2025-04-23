@@ -25,7 +25,7 @@ Interface que define o acesso ao endpoint:
 
 ## 🔸 service/MercadoBitcoinServiceFactory.kt
 
-Interface que:
+Classe que:
 
 - Define o método getTicker() para obter os dados de cotação da moeda BTC.
 - Usa Retrofit com suporte a coroutines (via suspend fun).
