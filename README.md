@@ -2,13 +2,6 @@
 
 Este é um app Android que consulta, em tempo real, a cotação do Bitcoin através da API pública do Mercado Bitcoin. Ele exibe o preço atual em reais, junto com a data e hora da última atualização dos dados.
 
-# Como Testar
-A versão do Android deve ser no mínimo 8.1
-
-Ative fontes desconhecidas no seu dispositivo:
-Configurações > Segurança e privacidade > Instalar apps desconhecidos > Ative a permição no seu APP de preferência
-
-Baixe o APK disponível em: apks/crypto_monitor.apk ou em releases (v1.0.0
 
 # 🧱 Estrutura Geral do Projeto
 
